@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:diceRoller.xcodeproj">
+      location = "self:/Users/laxmam/Desktop/diceRoller/DiceRoller.xcodeproj">
    </FileRef>
 </Workspace>

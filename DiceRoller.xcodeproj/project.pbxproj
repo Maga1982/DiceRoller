@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 499770172204B5D800FCE07C /* Build configuration list for PBXProject "diceRoller" */;
+			buildConfigurationList = 499770172204B5D800FCE07C /* Build configuration list for PBXProject "DiceRoller" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -478,7 +478,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/diceRoller.app/diceRoller";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DiceRoller.temp_caseinsensitive_rename.app/DiceRoller.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -498,7 +498,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/diceRoller.app/diceRoller";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DiceRoller.temp_caseinsensitive_rename.app/DiceRoller.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -543,7 +543,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		499770172204B5D800FCE07C /* Build configuration list for PBXProject "diceRoller" */ = {
+		499770172204B5D800FCE07C /* Build configuration list for PBXProject "DiceRoller" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				499770422204B5D900FCE07C /* Debug */,
